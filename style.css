@@ -28,12 +28,12 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 130px;
+    padding: 20px;
     
 }
 
 #imgmilton {
-    background: black url(imagens/milton.jpg) center center no-repeat fixed;
+    background: black url(imagens/milton.jpg) center center no-repeat local;
     background-size: cover;
 }
 

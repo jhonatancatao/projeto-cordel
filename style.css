@@ -33,12 +33,12 @@ header {
 }
 
 #imgmilton {
-    background: black url(imagens/milton.jpg) center center no-repeat local;
+    background: black url(imagens/milton.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
 header > h1 {
-    padding-top: 30px;
+    padding-top: 300px;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 10vw;

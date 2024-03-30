@@ -46,11 +46,11 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
-    color: black;
+    color: white;
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
     font-weight: bolder;
 }
